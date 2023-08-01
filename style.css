@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  min-height: 2400px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(4, 53, 82);
+}
+
+#about {
+}
+
+#myprojects {
+  background-color: rgb(4, 53, 82);
+}
+
+#footer {
+  background-color: #043552;
+  max-height: max-content;
+}
+
+nav:hover {
+  color: #f9f7f4;
+  background-color: #04c3ee;
+  border-color: #5b288e;
+}
+
+section {
+  padding-top: 5rem;
+}
