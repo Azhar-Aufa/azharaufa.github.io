@@ -8,9 +8,6 @@ body {
   background-color: rgb(4, 53, 82);
 }
 
-#about {
-}
-
 #myprojects {
   background-color: rgb(4, 53, 82);
 }
@@ -20,10 +17,10 @@ body {
   max-height: max-content;
 }
 
-nav:hover {
-  color: #f9f7f4;
-  background-color: #04c3ee;
-  border-color: #5b288e;
+.nav-item:hover {
+  background-color: rgb(0, 102, 255);
+  border-radius: 5px;
+  
 }
 
 section {
